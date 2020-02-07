@@ -1,5 +1,5 @@
 <?php
-
+    
 /**
 *
 * @file index.php
@@ -45,8 +45,8 @@ function subs_of_grade ($grade, $subs)
 subs_of_grade (12, $subs);
 // Array for marks obtained of each student with student id as key
 $obtainedMarks = array ('st1' => array ('math' => '100', 'eng' => '00', 'hindi' => '70'),
-  'st2' => array ('math' => '80', 'eng' => '70', 'hindi' => '62'),
-  'st3' => array ('math' => '80', 'eng' => '40', 'hindi' => '36'));
+                        'st2' => array ('math' => '80', 'eng' => '70', 'hindi' => '62'),
+                        'st3' => array ('math' => '80', 'eng' => '40', 'hindi' => '36'));
 
 
 
