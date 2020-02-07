@@ -9,16 +9,16 @@
 
   // Array of students is defined
 $student = array(0 => array('id' => 'st1', 'name' => 'Hemant', 'dob' => strtotime("1990-02-01"), 'grade' => '12' ),
- 1 => array('id' => 'st2', 'name' => 'Yash', 'dob' => strtotime("1998-08-14"), 'grade' => '11' ),
- 2 => array('id' => 'st3', 'name' => 'Zubin', 'dob' => strtotime("1994-08-11"), 'grade' => '11' ));
+                 1 => array('id' => 'st2', 'name' => 'Yash', 'dob' => strtotime("1998-08-14"), 'grade' => '11' ),
+                 2 => array('id' => 'st3', 'name' => 'Zubin', 'dob' => strtotime("1994-08-11"), 'grade' => '11' ));
 
  //  Data structure for subjects
 $subs = array(array('grade' => 12, 'name' => 'math', 'code' => '12M', 'mm' => 60),
-  array('grade' => 12, 'name' => 'eng', 'code' => '12E', 'mm' => 80),
-  array('grade' => 12, 'name' => 'hindi', 'code' => '12H', 'mm' => 60),
-  array('grade' => 11, 'name' => 'math', 'code' => '11M', 'mm' => 55),
-  array('grade' => 11, 'name' => 'eng', 'code' => '11E', 'mm' => 60),
-  array('grade' => 11, 'name' => 'hindi', 'code' => '11H', 'mm' => 70));
+              array('grade' => 12, 'name' => 'eng', 'code' => '12E', 'mm' => 80),
+              array('grade' => 12, 'name' => 'hindi', 'code' => '12H', 'mm' => 60),
+              array('grade' => 11, 'name' => 'math', 'code' => '11M', 'mm' => 55),
+              array('grade' => 11, 'name' => 'eng', 'code' => '11E', 'mm' => 60),
+              array('grade' => 11, 'name' => 'hindi', 'code' => '11H', 'mm' => 70));
 
 
 
